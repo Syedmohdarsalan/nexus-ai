@@ -1,0 +1,4 @@
+invoice_number,vendor_name,amount_minor,currency,due_date
+INV-001,Demo Cloud Services,2500000,INR,2026-12-15
+INV-002,Demo Office Supplies,125000,INR,2026-12-18
+INV-003,Demo Hosting,45000,USD,2026-12-20
